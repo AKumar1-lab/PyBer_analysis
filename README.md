@@ -77,5 +77,21 @@ Deliverable 3: A written report for the PyBer analysis.
 ![Fig8](https://user-images.githubusercontent.com/85860367/126893102-758f61b1-b3e3-4ab2-9a19-0923caa77836.png)
 
 ## Summary
+### Results
 
+![Fig1](https://user-images.githubusercontent.com/85860367/126894199-4064d32b-cf84-4ba2-a19c-fc9930ee38c6.png)
+
+We found disparities in fare, driver count and the city type that need to be addressed by the CEO if ride sharing is going to be successful.
+1) Our findings show that there are less ridership in rural and suburban areas; and more ride-sharing opportunities in urban areas.  The higher fare and not enough drivers may be a reason that the rural and suburban communities choose not use the ride-sharing service.
+
+![Fig6](https://user-images.githubusercontent.com/85860367/126893754-7431a520-012c-4213-b967-161c306ebb61.png)
+
+2) Our finding show that the fare is higher in rural and suburban areas and it also may be closely correlated to small number of drivers in these areas.  We may need to hire more drivers, or offer a price break to attract more clients of the rural and suburban areas.  We may need to pitch ideas to the clients on more daily or routine trips like going shopping, appointments, and other short trips for rural and suburban areas.  Ride sharing does not need to be limited to nightlife, entertainment or special occasions.
+
+![Fig7](https://user-images.githubusercontent.com/85860367/126894045-f2857922-6666-425a-b60c-2ec33cc61e97.png)
+
+
+3) After further analysis on fare in a weeks over the course of 4 months in the cities of rural, suburban and urban areas.  It was much more apparent that there was no overlap in fare, which means that each area is a hub, and may need to have an average fare that is fixed to each city type. 
+
+![Fig5](https://user-images.githubusercontent.com/85860367/126894309-68cfc62d-e658-4dc3-8c65-c053cbc21cec.png)
 
